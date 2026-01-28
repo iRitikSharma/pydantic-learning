@@ -46,3 +46,14 @@ user = User(
 )
 
 print(user)
+```
+
+
+## 👤 About the Author
+
+**Ritik Sharma**  
+[GitHub](https://github.com/iRitikSharma) | [LinkedIn](https://www.linkedin.com/in/ritik-sharma-6638791a6/)
+
+---
+
+**Happy learning and keep experimenting! 🚀**
